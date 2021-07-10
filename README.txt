@@ -1,6 +1,6 @@
 # API-task
 
-My first time cresting an CRUD API with flask.Was such a challenge for a beginner like myself but with help from my team members I was able to push through.
+My first time creating an CRUD API with flask.Was such a challenge for a beginner like myself but with help from my team members I was able to push through.
 
 CRUD simply stands for Create,Read,Update and Delete
 
